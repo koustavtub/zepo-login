@@ -10,7 +10,7 @@
 #### __Embedded__ Tomcat is being used for this application
 
 
-## Default Properties [ Change/Modify Properties File](/src/main/resources/application.properties)
+#### Default Properties [ Change/Modify Properties File](/src/main/resources/application.properties)
 *	PORT
 		server.port=7070
 
@@ -31,10 +31,6 @@
 
 - [zepo-login/SCREENSHOTS/zepo api postman runner.html](/SCREENSHOTS/zepo api postman runner.html)
 
-or
 
-visit:
-
-- https://www.getpostman.com/collections/3cb31d696b56ccd4214d
 
 
