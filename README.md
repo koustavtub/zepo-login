@@ -1,7 +1,7 @@
 # ZEPO Login with Spring Security, Spring Boot, Spring Data JPA, SQL, JSP
 
 ## Guide
-Instructions.txt
+Instructions (docs/Instructions.md)
 
 
 ## Prerequisites

@@ -2,7 +2,7 @@
 
 # Import as maven project to your IDE
 
-# Set JAVA version in pom.xml and clean build with maven
+# Set JAVA version in pom.xml(pom.xml) and clean build with maven
 	<java.version>1.8</java.version>
 
 # Refresh Project and Run "fun.zepo.auth.WebApplication" as Java Application
@@ -10,7 +10,7 @@
 # Embedded Tomcat is being used for this application
 
 
-# Default Properties( Change/Modify File "application.properties" in "zepo-login/src/main/resources" )
+# Default Properties [ Change/Modify Properties File] (zepo-login/src/main/resources/application.properties" )
 
 *	PORT
 		server.port=7070
