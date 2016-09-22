@@ -1,7 +1,7 @@
 # ZEPO Login with Spring Security, Spring Boot, Spring Data JPA, SQL, JSP
 
 ## Guide
-[Instructions](zepo-login/tree/master/Instructions.md)
+[Instructions](https://github.com/koustavtub/zepo-login/tree/master/Instructions.md)
 
 
 ## Prerequisites
