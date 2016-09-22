@@ -1,16 +1,16 @@
-# Read README.md for Minimum Requirements.
+#### Read [README.md](/README.md) for Minimum Requirements.
 
-# Import as maven project to your IDE
+#### Import as maven project to your IDE
 
-# Set JAVA version in [pom.xml](pom.xml) and clean build with maven
+#### Set JAVA version in [pom.xml](pom.xml) and clean build with maven
 	<java.version>1.8</java.version>
 
-# Refresh Project and Run "fun.zepo.auth.WebApplication" as Java Application
+#### Refresh Project and Run "fun.zepo.auth.WebApplication" as __Java Application__
 
-# Embedded Tomcat is being used for this application
+#### __Embedded__ Tomcat is being used for this application
 
 
-# Default Properties [ Change/Modify Properties File](/src/main/resources/application.properties)
+## Default Properties [ Change/Modify Properties File](/src/main/resources/application.properties)
 *	PORT
 		server.port=7070
 
@@ -23,10 +23,10 @@
 		spring.datasource.password=zepo
 
 
-# UI Screenshots:"zepo-login/SCREENSHOTS"
+## [UI Screenshots](SCREENSHOTS)
 
 
-# To Run API Tests on postman open html file at:
+## To Run API Tests on postman open html file at:
 
 
 - [zepo-login/SCREENSHOTS/zepo api postman runner.html](/SCREENSHOTS/zepo api postman runner.html)
