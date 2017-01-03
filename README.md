@@ -25,3 +25,6 @@
 
 ## Run
 ```mvn clean spring-boot:run```
+
+### Stable Release
+-v2.0
